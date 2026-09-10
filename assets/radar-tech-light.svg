@@ -1,64 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 390" width="100%" height="100%">
   <defs>
     <linearGradient id="grad_radar_tech_light" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#8250DF" stop-opacity="0.35" />
       <stop offset="100%" stop-color="#6639BA" stop-opacity="0.1" />
     </linearGradient>
   </defs>
-  <rect x="1" y="1" width="498" height="398" rx="10" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2" />
-  <text x="250" y="26" text-anchor="middle" fill="#1F2328" font-size="15.5" font-weight="700" font-family="system-ui, -apple-system, sans-serif">AI PM &amp; Technical Systems</text>
-  <polygon points="250.0,166.5 280.7,184.2 280.7,219.8 250.0,237.5 219.3,219.8 219.3,184.2" fill="none" stroke="rgba(0,0,0,0.08)" stroke-width="1.1" />
-  <polygon points="250.0,131.0 311.5,166.5 311.5,237.5 250.0,273.0 188.5,237.5 188.5,166.5" fill="none" stroke="rgba(0,0,0,0.08)" stroke-width="1.1" />
-  <polygon points="250.0,95.5 342.2,148.8 342.2,255.2 250.0,308.5 157.8,255.2 157.8,148.8" fill="none" stroke="rgba(0,0,0,0.08)" stroke-width="1.1" />
-  <polygon points="250.0,60.0 373.0,131.0 373.0,273.0 250.0,344.0 127.0,273.0 127.0,131.0" fill="none" stroke="rgba(0,0,0,0.08)" stroke-width="1.1" />
+  <rect x="1" y="1" width="578" height="388" rx="10" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2" />
+  <text x="290" y="26" text-anchor="middle" fill="#1F2328" font-size="15.5" font-weight="700" font-family="system-ui, -apple-system, sans-serif">AI PM &amp; Technical Systems</text>
+  <polygon points="290.0,163.8 317.1,179.4 317.1,210.6 290.0,226.2 262.9,210.6 262.9,179.4" fill="none" stroke="rgba(0,0,0,0.08)" stroke-width="1" />
+  <polygon points="290.0,132.5 344.1,163.8 344.1,226.2 290.0,257.5 235.9,226.2 235.9,163.8" fill="none" stroke="rgba(0,0,0,0.08)" stroke-width="1" />
+  <polygon points="290.0,101.2 371.2,148.1 371.2,241.9 290.0,288.8 208.8,241.9 208.8,148.1" fill="none" stroke="rgba(0,0,0,0.08)" stroke-width="1" />
+  <polygon points="290.0,70.0 398.3,132.5 398.3,257.5 290.0,320.0 181.7,257.5 181.7,132.5" fill="none" stroke="rgba(0,0,0,0.08)" stroke-width="1" />
 
-  <line x1="250" y1="202" x2="250.0" y2="60.0" stroke="rgba(0,0,0,0.16)" stroke-width="1.1" stroke-dasharray="3 3" />
-  <line x1="250" y1="202" x2="373.0" y2="131.0" stroke="rgba(0,0,0,0.16)" stroke-width="1.1" stroke-dasharray="3 3" />
-  <line x1="250" y1="202" x2="373.0" y2="273.0" stroke="rgba(0,0,0,0.16)" stroke-width="1.1" stroke-dasharray="3 3" />
-  <line x1="250" y1="202" x2="250.0" y2="344.0" stroke="rgba(0,0,0,0.16)" stroke-width="1.1" stroke-dasharray="3 3" />
-  <line x1="250" y1="202" x2="127.0" y2="273.0" stroke="rgba(0,0,0,0.16)" stroke-width="1.1" stroke-dasharray="3 3" />
-  <line x1="250" y1="202" x2="127.0" y2="131.0" stroke="rgba(0,0,0,0.16)" stroke-width="1.1" stroke-dasharray="3 3" />
+  <line x1="290" y1="195" x2="290.0" y2="70.0" stroke="rgba(0,0,0,0.16)" stroke-width="1" stroke-dasharray="3 3" />
+  <line x1="290" y1="195" x2="398.3" y2="132.5" stroke="rgba(0,0,0,0.16)" stroke-width="1" stroke-dasharray="3 3" />
+  <line x1="290" y1="195" x2="398.3" y2="257.5" stroke="rgba(0,0,0,0.16)" stroke-width="1" stroke-dasharray="3 3" />
+  <line x1="290" y1="195" x2="290.0" y2="320.0" stroke="rgba(0,0,0,0.16)" stroke-width="1" stroke-dasharray="3 3" />
+  <line x1="290" y1="195" x2="181.7" y2="257.5" stroke="rgba(0,0,0,0.16)" stroke-width="1" stroke-dasharray="3 3" />
+  <line x1="290" y1="195" x2="181.7" y2="132.5" stroke="rgba(0,0,0,0.16)" stroke-width="1" stroke-dasharray="3 3" />
 
-  <text x="256" y="134.5" fill="#57606A" font-size="9.5" font-weight="500" font-family="system-ui, -apple-system, sans-serif">50%</text>
-  <text x="256" y="99.0" fill="#57606A" font-size="9.5" font-weight="500" font-family="system-ui, -apple-system, sans-serif">75%</text>
-  <text x="256" y="63.5" fill="#57606A" font-size="9.5" font-weight="500" font-family="system-ui, -apple-system, sans-serif">100%</text>
-
-  <polygon points="250.0,68.5 358.2,139.5 341.0,254.5 250.0,321.3 163.9,251.7 136.9,136.7" fill="url(#grad_radar_tech_light)" stroke="#8250DF" stroke-width="2.6" />
-  <circle cx="250.0" cy="68.5" r="4.5" fill="#8250DF" />
-  <circle cx="250.0" cy="68.5" r="2.0" fill="#FFFFFF" />
-  <circle cx="358.2" cy="139.5" r="4.5" fill="#8250DF" />
-  <circle cx="358.2" cy="139.5" r="2.0" fill="#FFFFFF" />
-  <circle cx="341.0" cy="254.5" r="4.5" fill="#8250DF" />
-  <circle cx="341.0" cy="254.5" r="2.0" fill="#FFFFFF" />
-  <circle cx="250.0" cy="321.3" r="4.5" fill="#8250DF" />
-  <circle cx="250.0" cy="321.3" r="2.0" fill="#FFFFFF" />
-  <circle cx="163.9" cy="251.7" r="4.5" fill="#8250DF" />
-  <circle cx="163.9" cy="251.7" r="2.0" fill="#FFFFFF" />
-  <circle cx="136.9" cy="136.7" r="4.5" fill="#8250DF" />
-  <circle cx="136.9" cy="136.7" r="2.0" fill="#FFFFFF" />
+  <polygon points="290.0,77.5 385.3,140.0 370.1,241.2 290.0,300.0 214.2,238.8 190.4,137.5" fill="url(#grad_radar_tech_light)" stroke="#8250DF" stroke-width="2.6" />
+  <circle cx="290.0" cy="77.5" r="4.5" fill="#8250DF" />
+  <circle cx="290.0" cy="77.5" r="2.0" fill="#FFFFFF" />
+  <circle cx="385.3" cy="140.0" r="4.5" fill="#8250DF" />
+  <circle cx="385.3" cy="140.0" r="2.0" fill="#FFFFFF" />
+  <circle cx="370.1" cy="241.2" r="4.5" fill="#8250DF" />
+  <circle cx="370.1" cy="241.2" r="2.0" fill="#FFFFFF" />
+  <circle cx="290.0" cy="300.0" r="4.5" fill="#8250DF" />
+  <circle cx="290.0" cy="300.0" r="2.0" fill="#FFFFFF" />
+  <circle cx="214.2" cy="238.8" r="4.5" fill="#8250DF" />
+  <circle cx="214.2" cy="238.8" r="2.0" fill="#FFFFFF" />
+  <circle cx="190.4" cy="137.5" r="4.5" fill="#8250DF" />
+  <circle cx="190.4" cy="137.5" r="2.0" fill="#FFFFFF" />
 
           <g>
-          <text x="250.0" y="44.0" text-anchor="middle" fill="#1F2328" font-size="12.5" font-weight="600" font-family="system-ui, -apple-system, sans-serif">LLM Evals &amp; Benchmarks</text>
-          <text x="250.0" y="58.0" text-anchor="middle" fill="#8250DF" font-size="12" font-weight="700" font-family="system-ui, -apple-system, sans-serif">94%</text>
+          <text x="290.0" y="47.0" text-anchor="middle" fill="#1F2328" font-size="12.5" font-weight="600" font-family="system-ui, -apple-system, sans-serif">LLM Evals &amp; Benchmarks</text>
+          <text x="290.0" y="61.0" text-anchor="middle" fill="#8250DF" font-size="12" font-weight="700" font-family="system-ui, -apple-system, sans-serif">94%</text>
         </g>
           <g>
-          <text x="382.0" y="126.0" text-anchor="start" fill="#1F2328" font-size="12.5" font-weight="600" font-family="system-ui, -apple-system, sans-serif">Multi-Agent Routing</text>
-          <text x="382.0" y="141.0" text-anchor="start" fill="#8250DF" font-size="12" font-weight="700" font-family="system-ui, -apple-system, sans-serif">88%</text>
+          <text x="412.0" y="127.0" text-anchor="start" fill="#1F2328" font-size="12.5" font-weight="600" font-family="system-ui, -apple-system, sans-serif">Multi-Agent Routing</text>
+          <text x="412.0" y="142.0" text-anchor="start" fill="#8250DF" font-size="12" font-weight="700" font-family="system-ui, -apple-system, sans-serif">88%</text>
         </g>
           <g>
-          <text x="382.0" y="271.0" text-anchor="start" fill="#1F2328" font-size="12.5" font-weight="600" font-family="system-ui, -apple-system, sans-serif">API &amp; System Arch</text>
-          <text x="382.0" y="286.0" text-anchor="start" fill="#8250DF" font-size="12" font-weight="700" font-family="system-ui, -apple-system, sans-serif">74%</text>
+          <text x="412.0" y="252.0" text-anchor="start" fill="#1F2328" font-size="12.5" font-weight="600" font-family="system-ui, -apple-system, sans-serif">API &amp; System Arch</text>
+          <text x="412.0" y="267.0" text-anchor="start" fill="#8250DF" font-size="12" font-weight="700" font-family="system-ui, -apple-system, sans-serif">74%</text>
         </g>
           <g>
-          <text x="250.0" y="363.0" text-anchor="middle" fill="#1F2328" font-size="12.5" font-weight="600" font-family="system-ui, -apple-system, sans-serif">Python &amp; Scripting</text>
-          <text x="250.0" y="378.0" text-anchor="middle" fill="#8250DF" font-size="12" font-weight="700" font-family="system-ui, -apple-system, sans-serif">84%</text>
+          <text x="290.0" y="345.0" text-anchor="middle" fill="#1F2328" font-size="12.5" font-weight="600" font-family="system-ui, -apple-system, sans-serif">Python &amp; Scripting</text>
+          <text x="290.0" y="360.0" text-anchor="middle" fill="#8250DF" font-size="12" font-weight="700" font-family="system-ui, -apple-system, sans-serif">84%</text>
         </g>
           <g>
-          <text x="118.0" y="271.0" text-anchor="end" fill="#1F2328" font-size="12.5" font-weight="600" font-family="system-ui, -apple-system, sans-serif">Data Pipelines &amp; SQL</text>
-          <text x="118.0" y="286.0" text-anchor="end" fill="#8250DF" font-size="12" font-weight="700" font-family="system-ui, -apple-system, sans-serif">70%</text>
+          <text x="168.0" y="252.0" text-anchor="end" fill="#1F2328" font-size="12.5" font-weight="600" font-family="system-ui, -apple-system, sans-serif">Data Pipelines &amp; SQL</text>
+          <text x="168.0" y="267.0" text-anchor="end" fill="#8250DF" font-size="12" font-weight="700" font-family="system-ui, -apple-system, sans-serif">70%</text>
         </g>
           <g>
-          <text x="118.0" y="126.0" text-anchor="end" fill="#1F2328" font-size="12.5" font-weight="600" font-family="system-ui, -apple-system, sans-serif">Guardrails &amp; Safety</text>
-          <text x="118.0" y="141.0" text-anchor="end" fill="#8250DF" font-size="12" font-weight="700" font-family="system-ui, -apple-system, sans-serif">92%</text>
+          <text x="168.0" y="127.0" text-anchor="end" fill="#1F2328" font-size="12.5" font-weight="600" font-family="system-ui, -apple-system, sans-serif">Guardrails &amp; Safety</text>
+          <text x="168.0" y="142.0" text-anchor="end" fill="#8250DF" font-size="12" font-weight="700" font-family="system-ui, -apple-system, sans-serif">92%</text>
         </g>
 </svg>
