@@ -35,17 +35,35 @@ I like taking ambiguous, messy problems and turning them into working software. 
 
 ## `~/` toolbox
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,postgres,react,vite,tailwind,figma,github,vscode,git,notion&perline=10" alt="tech stack">
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white" alt="Linear" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" />
+  <img src="https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white" alt="Mixpanel" />
+  <img src="https://img.shields.io/badge/Amplitude-001E62?style=flat-square&logo=amplitude&logoColor=white" alt="Amplitude" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+</p>
 
 </div>
 
 <br>
 
-* **Product & Strategy**: Discovery, roadmapping, PRDs, user interviews, GTM, pricing, experiment design
-* **AI & Technical Systems**: LLM evaluations, multi-agent workflows, prompt design, RAG, Python, SQL, Git
-* **Design & Analytics**: Figma, Linear, Jira, Mixpanel, Amplitude, Tableau, Vite, React, Tailwind
+* **Product Discovery & Definition**: Customer interviews, field observation, PRDs and specs, 0 to 1 roadmapping, backlog prioritization, Agile and sprint planning
+* **Product Strategy & GTM**: Positioning narratives, sales enablement, demo to pilot workflows, value proposition design, commercial and pricing models
+* **Analytics & Growth**: Metrics trees and North Star KPIs, cohort retention, funnel analysis, Mixpanel, Amplitude, Tableau, SQL
+* **AI & Technical Prototyping**: LLM evaluations and benchmarks, multi-agent workflows, model guardrails, clickable prototypes, Python, React, Vite, Figma
 
 ---
 
