@@ -1,6 +1,6 @@
 # Guhan Ashok
 
-[LinkedIn](https://www.linkedin.com/in/guhan-ashok/) &nbsp;·&nbsp; [Portfolio (WIP)](https://guhanashok.com) &nbsp;·&nbsp; [Email](mailto:gganesh@andrew.cmu.edu)
+[LinkedIn](https://www.linkedin.com/in/guhan-ashok/) &nbsp;·&nbsp; [Portfolio](https://guhanashok.com) &nbsp;·&nbsp; [Email](mailto:gganesh@andrew.cmu.edu)
 
 Product manager and builder currently finishing my Master of Science in Product Management at Carnegie Mellon University (School of Computer Science + Tepper School of Business).
 
