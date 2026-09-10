@@ -51,7 +51,7 @@ I like taking ambiguous, messy problems and turning them into working software. 
 
 <div align="center">
 
-## `~/` skill radar & activity
+## `~/` skill radars
 
 <table>
 <tbody>
@@ -59,17 +59,19 @@ I like taking ambiguous, messy problems and turning them into working software. 
 <td width="50%" align="center" valign="middle">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-v2-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-v2-light.svg">
-  <img src="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-v2-dark.svg" width="400" alt="skill radar chart">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-tech-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-tech-light.svg">
+  <img src="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-tech-dark.svg" width="100%" alt="AI PM & Technical Systems Radar">
 </picture>
 
 </td>
 <td width="50%" align="center" valign="middle">
 
-<a href="https://github.com/guhanashok07">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guhanashok07&theme=github_dark_blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e" width="400" alt="GitHub Streak">
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-product-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-product-light.svg">
+  <img src="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-product-dark.svg" width="100%" alt="Product Management & HCI Radar">
+</picture>
 
 </td>
 </tr>
