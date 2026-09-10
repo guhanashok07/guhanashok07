@@ -1,7 +1,9 @@
 <div align="center">
 
+<h1>Guhan Ashok</h1>
+
 <a href="https://github.com/guhanashok07">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1000&color=1473E6&center=true&vCenter=true&width=580&lines=Guhan+Ashok;AI-Native+Product+Manager;MSPM+%40+Carnegie+Mellon+(SCS+%2B+Tepper);Building+AI+Safety+%26+Agentic+Systems;Prompt+the+first+90%25%2C+finish+last+10%25" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1000&color=1473E6&center=true&vCenter=true&width=580&lines=Guhan+Ashok;AI-Native+Product+Manager;MSPM+%40+Carnegie+Mellon+(SCS+%2B+Tepper);Building+AI+Safety+%26+Agentic+Systems;Prompt+the+first+90%25%2C+finish+last+10%25" alt="Guhan Ashok - AI Product Manager">
 </a>
 
 <br>
