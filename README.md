@@ -54,24 +54,24 @@ I like taking ambiguous, messy problems and turning them into working software. 
 
 ## `~/` skill radars
 
-<table>
+<table width="100%">
 <tbody>
 <tr>
 <td width="50%" align="center" valign="middle">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-tech-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-tech-light.svg">
-  <img src="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-tech-dark.svg" width="100%" alt="AI PM & Technical Systems Radar">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-tech-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-tech-light.svg?v=2">
+  <img src="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-tech-dark.svg?v=2" width="100%" alt="AI PM & Technical Systems Radar">
 </picture>
 
 </td>
 <td width="50%" align="center" valign="middle">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-product-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-product-light.svg">
-  <img src="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-product-dark.svg" width="100%" alt="Product Management & HCI Radar">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-product-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-product-light.svg?v=2">
+  <img src="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-product-dark.svg?v=2" width="100%" alt="Product Management & HCI Radar">
 </picture>
 
 </td>
