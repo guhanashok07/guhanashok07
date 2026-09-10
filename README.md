@@ -11,12 +11,6 @@ I like taking ambiguous, messy problems and turning them into working software. 
 ### What I am working on
 
 * **AI Safety & Evals (CMU Applied GenAI Lab)**: Building an LLM misinformation guardrail that sits between user input and model output. It breaks responses into atomic claims and flags hallucinations using FActScore and semantic entropy.
-* **[Adobe Stage](https://github.com/guhanashok07/adobe-stage)**: A browser-native design tool exploring how to solve the prompt wall in generative design. You prompt the initial 90%, then tweak the remaining 10% directly with visual controls. Dual artboards for UI/UX and graphic design.  
-  [Live Prototype](https://adobestageproto.netlify.app/) &nbsp;·&nbsp; [Launch Deck](https://adobestageproto.netlify.app/deck.html) &nbsp;·&nbsp; [GitHub](https://github.com/guhanashok07/adobe-stage)
-* **[JobWatch](https://github.com/guhanashok07/jobwatch)**: A Python tool to track and filter US product management target companies and job postings.  
-  [GitHub](https://github.com/guhanashok07/jobwatch)
-* **[Aethel](https://github.com/guhanashok07/aethel)**: Personal OS and workspace system for managing projects, notes, and operations.  
-  [GitHub](https://github.com/guhanashok07/aethel)
 * **Geeth (गीत)**: An independent build focused on discovering great music buried by mainstream streaming algorithms.
 
 ---
