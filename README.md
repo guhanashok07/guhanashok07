@@ -35,9 +35,9 @@ I like taking ambiguous, messy problems and turning them into working software. 
 
 ## `~/` toolbox
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma,notion,postman,python,postgres,react,vite,tailwind,github,vscode&perline=10" alt="Product & Engineering Toolbox" title="Toolbox: Figma · Notion · Postman · Python · PostgreSQL · React · Vite · Tailwind CSS · GitHub · VS Code" />
-</a>
+<p align="center">
+  <img src="https://github.com/guhanashok07/guhanashok07/raw/main/assets/toolbox.svg" alt="Product, AI & Engineering Toolbox" title="Toolbox: Figma · Notion · Postman · Cursor · Claude Code · Antigravity · Python · PostgreSQL · React · Vite · Tailwind CSS · GitHub" />
+</p>
 
 </div>
 
@@ -46,7 +46,7 @@ I like taking ambiguous, messy problems and turning them into working software. 
 * **Product Discovery & Definition**: Customer interviews, field observation, PRDs and specs, 0 to 1 roadmapping, backlog prioritization, Agile and sprint planning (Jira, Linear)
 * **Product Strategy & GTM**: Positioning narratives, sales enablement, demo to pilot workflows, value proposition design, commercial and pricing models
 * **Analytics & Growth**: Metrics trees and North Star KPIs, cohort retention, funnel analysis, Mixpanel, Amplitude, Tableau, SQL
-* **AI & Technical Prototyping**: LLM evaluations and benchmarks, multi-agent workflows, model guardrails, clickable prototypes, Python, React, Vite, Figma
+* **AI & Technical Prototyping**: Cursor, Claude Code, Google Antigravity, LLM evaluations and benchmarks, multi-agent workflows, model guardrails, clickable prototypes, Python, React, Vite, Figma
 
 ---
 
