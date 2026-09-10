@@ -53,6 +53,33 @@ I like taking ambiguous, messy problems and turning them into working software. 
 
 ---
 
+<div align="center">
+
+## `~/` skill radar
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guhanashok07/guhanashok07/main/assets/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guhanashok07/guhanashok07/main/assets/radar-light.svg">
+  <img src="https://raw.githubusercontent.com/guhanashok07/guhanashok07/main/assets/radar-dark.svg" width="480" alt="Guhan Ashok skill radar">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` the numbers
+
+<a href="https://github.com/guhanashok07">
+  <img src="https://github-readme-stats.vercel.app/api?username=guhanashok07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guhanashok07&theme=github_dark_blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e" height="150" alt="GitHub streak" />
+</a>
+
+</div>
+
+---
+
 ## `~/` track-record
 
 * **OrthoBerry (Product Management Intern)**  
