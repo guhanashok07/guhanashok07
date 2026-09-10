@@ -54,17 +54,26 @@ I like taking ambiguous, messy problems and turning them into working software. 
 ## `~/` skill radar & activity
 
 <table>
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="assets/radar-dark.svg#gh-dark-mode-only" width="100%" alt="Skill Radar" />
-      <img src="assets/radar-light.svg#gh-light-mode-only" width="100%" alt="Skill Radar" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/guhanashok07">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=guhanashok07&theme=github_dark_blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e" width="100%" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
+<tbody>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-v2-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-v2-light.svg">
+  <img src="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-v2-dark.svg" width="400" alt="skill radar chart">
+</picture>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<a href="https://github.com/guhanashok07">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guhanashok07&theme=github_dark_blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e" width="400" alt="GitHub Streak">
+</a>
+
+</td>
+</tr>
+</tbody>
 </table>
 
 </div>
