@@ -21,10 +21,6 @@
 
 ## `~/` whoami
 
-```console
-$ cat about.txt
-```
-
 Hi, I'm **Guhan Ashok**. I am an AI-native product manager and builder finishing my Master of Science in Product Management at **Carnegie Mellon University** (School of Computer Science + Tepper School of Business).
 
 I like taking ambiguous, messy problems and turning them into working software. My background spans early-stage AI products, enterprise field intelligence, zero-trust cybersecurity, and rapid prototyping. I write code, design in Figma, run evals, and build clickable prototypes to test ideas before locking in requirements.
@@ -55,26 +51,21 @@ I like taking ambiguous, messy problems and turning them into working software. 
 
 <div align="center">
 
-## `~/` skill radar
+## `~/` skill radar & activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guhanashok07/guhanashok07/main/assets/radar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guhanashok07/guhanashok07/main/assets/radar-light.svg">
-  <img src="https://raw.githubusercontent.com/guhanashok07/guhanashok07/main/assets/radar-dark.svg" width="480" alt="Guhan Ashok skill radar">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## `~/` the numbers
-
-<a href="https://github.com/guhanashok07">
-  <img src="https://github-readme-stats.vercel.app/api?username=guhanashok07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guhanashok07&theme=github_dark_blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e" height="150" alt="GitHub streak" />
-</a>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="assets/radar-dark.svg#gh-dark-mode-only" width="100%" alt="Skill Radar" />
+      <img src="assets/radar-light.svg#gh-light-mode-only" width="100%" alt="Skill Radar" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/guhanashok07">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=guhanashok07&theme=github_dark_blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e" width="100%" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
