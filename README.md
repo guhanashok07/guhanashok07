@@ -82,19 +82,19 @@ I like taking ambiguous, messy problems and turning them into working software. 
 
 ---
 
-## `~/` track-record
+## `~/` experience
 
-* **OrthoBerry (Product Management Intern)**  
-  Redesigned clinical treatment planning across 40+ orthodontic practices. Cut plan creation time from ~25 minutes down to ~3 minutes using reusable template structures. Reverse-engineered the legacy system without source access to write the v3.0 PRD, and proposed an AI copilot to reduce patient drop-off by roughly 20%.
+* **OrthoBerry** (Product Management Intern)  
+  Clinical treatment coordinators were spending a large chunk of their day manually stitching together treatment plans, fees, and insurance rules across fragmented screens. After observing physical clinic workflows during in-person visits, I reverse-engineered the legacy system without code access to map its undocumented business rules, then introduced a prototype-first workflow. Building interactive prototypes within days allowed product, clinical, and engineering teams to align on template-based planning, split payment journeys, and an in-flow AI copilot before formalizing requirements.
 
-* **Deloitte (Senior Consultant, AI & Strategy)**  
-  Built the product definition for an AI field-intelligence platform for a global FMCG client. It extracted entities, sentiment, and signals from frontline sales audio into a knowledge graph and executive analytics. Selected as 1 of 2 teams firm-wide for Deloitte's client-facing Agentic AI Showcase.
+* **Deloitte** (Senior Consultant, AI & Strategy)  
+  Frontline retail conversations held critical competitive signals that standard sales systems routinely missed. I defined the product experience for an enterprise field-intelligence agent that processed multilingual, dialect-heavy sales audio through transcription, entity extraction, and knowledge-graph enrichment. My focus was making unstructured conversational data decision-ready for executives through tailored dashboards and a natural-language query interface validated against extensive test cases, earning selection for Deloitte's client-facing Agentic AI showcase.
 
-* **Pathsetter AI (Product Manager)**  
-  Founding PM for Alfred, an enterprise AI insights platform. Designed an agentic routing and context layer that improved intent resolution on ambiguous queries from ~20% to ~85%. Built a human-in-the-loop evaluation framework covering 80 to 100 benchmark queries across 3 runs per query, and converted initial demos into 2 live customer pilots.
+* **Pathsetter AI** (Product Manager)  
+  As founding PM for Alfred, I led an AI-native enterprise insights platform from early concept to live customer pilots. The core challenge was synthesizing structured financial data with unstructured filings without generating unsupported answers. I designed an agentic orchestration layer for query routing, conversational context, and low-confidence guardrails so the system acknowledged ambiguity instead of hallucinating. Alongside engineering, I built a multi-run human-in-the-loop evaluation suite to measure factual accuracy, intent capture, and source faithfulness before deploying into live customer environments.
 
-* **ParadigmIT Cybersecurity (Product Marketing Manager & PM)**  
-  Shaped the roadmap and GTM for IronKlad, a zero-trust endpoint detection and response (EDR) platform. Rebuilt the product narrative to lift demo-to-pilot conversion from 10% to 30%. Worked with engineering to expand platform capacity from 1,300 to 5,000+ endpoints and increased threat-detection coverage to ~97%.
+* **ParadigmIT Cybersecurity** (Product Marketing Manager & PM)  
+  Joined a zero-trust endpoint detection and response (EDR) platform with enterprise clients already on board and no established product function. I immersed myself in the technical domain to collaborate with security analysts, rebuilt the platform narrative across demos and collateral, and created a product roadmap grounded in enterprise RFPs. On the technical side, I helped establish a threat-research process mapped to the MITRE ATT&CK framework and coordinated with DevOps to scale platform capacity and agent tamper resistance for larger enterprise deployments.
 
 ---
 
