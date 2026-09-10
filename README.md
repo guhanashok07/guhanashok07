@@ -60,18 +60,18 @@ I like taking ambiguous, messy problems and turning them into working software. 
 <td width="50%" align="center" valign="middle">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-tech-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-tech-light.svg?v=2">
-  <img src="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-tech-dark.svg?v=2" width="100%" alt="AI PM & Technical Systems Radar">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-tech-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-tech-light.svg?v=3">
+  <img src="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-tech-dark.svg?v=3" width="420" alt="AI PM & Technical Systems Radar">
 </picture>
 
 </td>
 <td width="50%" align="center" valign="middle">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-product-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-product-light.svg?v=2">
-  <img src="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-product-dark.svg?v=2" width="100%" alt="Product Management & HCI Radar">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-product-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-product-light.svg?v=3">
+  <img src="https://github.com/guhanashok07/guhanashok07/raw/main/assets/radar-product-dark.svg?v=3" width="420" alt="Product Management & HCI Radar">
 </picture>
 
 </td>
