@@ -8,7 +8,6 @@
 
 <br>
 
-<a href="https://github.com/guhanashok07/guhanashok07/blob/main/assets/Guhan_Ashok_Resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-PDF-4A154B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"></a>
 <a href="https://linkedin.com/in/guhan-ashok" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://guhanashok.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:gganesh@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -28,7 +27,6 @@ Hi, I'm **Guhan Ashok**. I am an AI-native product manager and builder finishing
 
 I like taking ambiguous, messy problems and turning them into working software. My background spans early-stage AI products, enterprise field intelligence, zero-trust cybersecurity, and rapid prototyping. I write code, design in Figma, run evals, and build clickable prototypes to test ideas before locking in requirements.
 
-* 📄 **Resume**: <a href="https://github.com/guhanashok07/guhanashok07/blob/main/assets/Guhan_Ashok_Resume.pdf" target="_blank" rel="noopener noreferrer">**View Resume (PDF)**</a>
 * 🔬 **Current Research**: Building an LLM misinformation guardrail at the **Carnegie Mellon Applied GenAI Lab**, decomposing model output into atomic claims with FActScore and semantic entropy.
 * ⚡ **Product Philosophy**: Prompt the first 90%, finish the remaining 10% through direct visual manipulation.
 * 📍 **Location**: Pittsburgh, PA
@@ -89,7 +87,10 @@ I like taking ambiguous, messy problems and turning them into working software. 
 
 ## `~/` experience
 
-*For complete work history, roles, and metrics, you can also <a href="https://github.com/guhanashok07/guhanashok07/blob/main/assets/Guhan_Ashok_Resume.pdf" target="_blank" rel="noopener noreferrer">view my full resume (PDF)</a>.*
+<p>
+  <em>For a more comprehensive overview of my work history and credentials:</em><br>
+  <a href="https://github.com/guhanashok07/guhanashok07/blob/main/assets/Guhan_Ashok_Resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Resume_(PDF)-000000?style=for-the-badge&logo=googledocs&logoColor=white" alt="View Resume (PDF)"></a>
+</p>
 
 * **OrthoBerry** (Product Management Intern)  
   Clinical treatment coordinators were spending a large chunk of their day manually stitching together treatment plans, fees, and insurance rules across fragmented screens. After observing physical clinic workflows during in-person visits, I reverse-engineered the legacy system without code access to map its undocumented business rules, then introduced a prototype-first workflow. Building interactive prototypes within days allowed product, clinical, and engineering teams to align on template-based planning, split payment journeys, and an in-flow AI copilot before formalizing requirements.
@@ -115,5 +116,5 @@ I like taking ambiguous, messy problems and turning them into working software. 
 ---
 
 <p align="center">
-  Guhan Ashok · <a href="https://github.com/guhanashok07" target="_blank" rel="noopener noreferrer">github.com/guhanashok07</a> · <a href="https://guhanashok.com" target="_blank" rel="noopener noreferrer">guhanashok.com</a> · <a href="https://github.com/guhanashok07/guhanashok07/blob/main/assets/Guhan_Ashok_Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
+  Guhan Ashok · <a href="https://github.com/guhanashok07" target="_blank" rel="noopener noreferrer">github.com/guhanashok07</a> · <a href="https://guhanashok.com" target="_blank" rel="noopener noreferrer">guhanashok.com</a>
 </p>
