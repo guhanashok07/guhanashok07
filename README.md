@@ -12,8 +12,7 @@
 <a href="https://linkedin.com/in/guhan-ashok" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://guhanashok.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:gganesh@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.cmu.edu/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Carnegie_Mellon-C41230?style=for-the-badge" alt="Carnegie Mellon"></a>
-<a href="https://www.cmu.edu/tepper/programs/master-product-management/curriculum" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MSPM-Curriculum-C41230?style=for-the-badge" alt="CMU MSPM Curriculum"></a>
+<a href="https://www.cmu.edu/tepper/programs/master-product-management/curriculum" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CMU-MSPM-C41230?style=for-the-badge" alt="CMU MSPM"></a>
 
 <br><br>
 
@@ -87,7 +86,7 @@ I like taking ambiguous, messy problems and turning them into working software. 
 
 ---
 
-## `~/` experience
+## `~/` recent experience
 
 <p>
   <em>For a more comprehensive overview of my work history:</em> &nbsp;
@@ -117,6 +116,15 @@ I like taking ambiguous, messy problems and turning them into working software. 
 
 ---
 
-<p align="center">
-  Guhan Ashok · <a href="https://github.com/guhanashok07" target="_blank" rel="noopener noreferrer">github.com/guhanashok07</a> · <a href="https://guhanashok.com" target="_blank" rel="noopener noreferrer">guhanashok.com</a>
-</p>
+<div align="center">
+
+## `~/` let's talk
+
+Always excited to connect around AI product management, agentic systems, or early-stage collaborations.
+
+<br>
+
+<a href="mailto:gganesh@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://linkedin.com/in/guhan-ashok" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+</div>
