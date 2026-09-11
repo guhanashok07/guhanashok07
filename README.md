@@ -9,6 +9,7 @@
 <br>
 
 <a href="https://linkedin.com/in/guhan-ashok"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/guhanashok07/guhanashok07/raw/main/assets/Guhan_Ashok_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-4A154B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"></a>
 <a href="https://guhanashok.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:gganesh@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.cmu.edu/"><img src="https://img.shields.io/badge/Carnegie%20Mellon-MSPM-C41230?style=for-the-badge" alt="CMU MSPM"></a>
@@ -111,5 +112,5 @@ I like taking ambiguous, messy problems and turning them into working software. 
 ---
 
 <p align="center">
-  Guhan Ashok · <a href="https://github.com/guhanashok07">github.com/guhanashok07</a> · <a href="https://guhanashok.com">guhanashok.com</a>
+  Guhan Ashok · <a href="https://github.com/guhanashok07">github.com/guhanashok07</a> · <a href="https://guhanashok.com">guhanashok.com</a> · <a href="https://github.com/guhanashok07/guhanashok07/raw/main/assets/Guhan_Ashok_Resume.pdf">Resume</a>
 </p>
