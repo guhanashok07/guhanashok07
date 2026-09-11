@@ -105,3 +105,11 @@ I like taking ambiguous, messy problems and turning them into working software. 
 
 * [The Next Chapter in UX/UI: Traditional Buttons + Prompts](https://bootcamp.uxdesign.cc/) (Published in *Bootcamp / UX Collective*)  
   Why pure text prompt interfaces create cognitive fatigue, and why the future of generative software belongs to hybrid interfaces that combine language models with direct visual manipulation.
+
+<br>
+
+---
+
+<p align="center">
+  Guhan Ashok · <a href="https://github.com/guhanashok07">github.com/guhanashok07</a> · <a href="https://guhanashok.com">guhanashok.com</a>
+</p>
