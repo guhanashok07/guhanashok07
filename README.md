@@ -8,6 +8,7 @@
 
 <br>
 
+<a href="https://guhanashok07.github.io/guhanashok07/resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-PDF-000000?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume (PDF)"></a>
 <a href="https://linkedin.com/in/guhan-ashok" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://guhanashok.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:gganesh@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -89,7 +90,7 @@ I like taking ambiguous, messy problems and turning them into working software. 
 
 <p>
   <em>For a more comprehensive overview of my work history and credentials:</em><br>
-  <a href="https://github.com/guhanashok07/guhanashok07/blob/main/assets/Guhan_Ashok_Resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Resume_(PDF)-000000?style=for-the-badge&logo=googledocs&logoColor=white" alt="View Resume (PDF)"></a>
+  <a href="https://guhanashok07.github.io/guhanashok07/resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Resume_(PDF)-000000?style=for-the-badge&logo=googledocs&logoColor=white" alt="View Resume (PDF)"></a>
 </p>
 
 * **OrthoBerry** (Product Management Intern)  
