@@ -103,7 +103,7 @@ I like taking ambiguous, messy problems and turning them into working software. 
 
 ## `~/` writing
 
-* [The Next Chapter in UX/UI: Traditional Buttons + Prompts](https://bootcamp.uxdesign.cc/) (Published in *Bootcamp / UX Collective*)  
+* [The Next Chapter in UX/UI: Traditional Buttons + Prompts](https://medium.com/design-bootcamp/the-next-chapter-in-ui-ux-traditional-buttons-prompts-7b21b03d9dfc) (Published in *Bootcamp / UX Collective*)  
   Why pure text prompt interfaces create cognitive fatigue, and why the future of generative software belongs to hybrid interfaces that combine language models with direct visual manipulation.
 
 <br>
