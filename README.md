@@ -12,7 +12,8 @@
 <a href="https://linkedin.com/in/guhan-ashok" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://guhanashok.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:gganesh@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.cmu.edu/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Carnegie%20Mellon-MSPM-C41230?style=for-the-badge" alt="CMU MSPM"></a>
+<a href="https://www.cmu.edu/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Carnegie_Mellon-C41230?style=for-the-badge" alt="Carnegie Mellon"></a>
+<a href="https://www.cmu.edu/tepper/programs/master-product-management/curriculum" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MSPM-Curriculum-C41230?style=for-the-badge" alt="CMU MSPM Curriculum"></a>
 
 <br><br>
 
@@ -24,7 +25,7 @@
 
 ## `~/` whoami
 
-Hi, I'm **Guhan Ashok**. I am an AI-native product manager and builder finishing my Master of Science in Product Management at **Carnegie Mellon University** (School of Computer Science + Tepper School of Business).
+Hi, I'm **Guhan Ashok**. I am an AI-native product manager and builder finishing my [Master of Science in Product Management](https://www.cmu.edu/tepper/programs/master-product-management/curriculum) at [**Carnegie Mellon University**](https://www.cmu.edu/) (School of Computer Science + Tepper School of Business).
 
 I like taking ambiguous, messy problems and turning them into working software. My background spans early-stage AI products, enterprise field intelligence, zero-trust cybersecurity, and rapid prototyping. I write code, design in Figma, run evals, and build clickable prototypes to test ideas before locking in requirements.
 
@@ -89,21 +90,21 @@ I like taking ambiguous, messy problems and turning them into working software. 
 ## `~/` experience
 
 <p>
-  <em>For a more comprehensive overview of my work history and credentials:</em><br>
-  <a href="https://guhanashok07.github.io/guhanashok07/resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Resume_(PDF)-000000?style=for-the-badge&logo=googledocs&logoColor=white" alt="View Resume (PDF)"></a>
+  <em>For a more comprehensive overview of my work history:</em> &nbsp;
+  <a href="https://guhanashok07.github.io/guhanashok07/resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Resume_(PDF)-000000?style=for-the-badge&logo=googledocs&logoColor=white" alt="View Resume (PDF)" align="center"></a>
 </p>
 
 * **OrthoBerry** (Product Management Intern)  
-  Clinical treatment coordinators were spending a large chunk of their day manually stitching together treatment plans, fees, and insurance rules across fragmented screens. After observing physical clinic workflows during in-person visits, I reverse-engineered the legacy system without code access to map its undocumented business rules, then introduced a prototype-first workflow. Building interactive prototypes within days allowed product, clinical, and engineering teams to align on template-based planning, split payment journeys, and an in-flow AI copilot before formalizing requirements.
+  Mapped undocumented clinic workflows by observing treatment coordinators on-site and reverse-engineering the legacy system. Introduced a prototype-first workflow in Figma and code, aligning clinical, engineering, and business teams on template-based planning, split payment journeys, and an in-flow AI copilot before formalizing specs.
 
 * **Deloitte** (Senior Consultant, AI & Strategy)  
-  Frontline retail conversations held critical competitive signals that standard sales systems routinely missed. I defined the product experience for an enterprise field-intelligence agent that processed multilingual, dialect-heavy sales audio through transcription, entity extraction, and knowledge-graph enrichment. My focus was making unstructured conversational data decision-ready for executives through tailored dashboards and a natural-language query interface validated against extensive test cases, earning selection for Deloitte's client-facing Agentic AI showcase.
+  Defined the product experience for an enterprise field-intelligence agent transforming unstructured, multilingual sales audio into structured insights via entity extraction and knowledge graphs. Designed executive dashboards and natural-language query interfaces validated against extensive test suites, earning selection for Deloitte's client-facing Agentic AI showcase.
 
 * **Pathsetter AI** (Product Manager)  
-  As founding PM for Alfred, I led an AI-native enterprise insights platform from early concept to live customer pilots. The core challenge was synthesizing structured financial data with unstructured filings without generating unsupported answers. I designed an agentic orchestration layer for query routing, conversational context, and low-confidence guardrails so the system acknowledged ambiguity instead of hallucinating. Alongside engineering, I built a multi-run human-in-the-loop evaluation suite to measure factual accuracy, intent capture, and source faithfulness before deploying into live customer environments.
+  Founding PM for Alfred, an AI-native enterprise insights platform taken from concept to customer pilots. Architected query routing and low-confidence guardrails to prevent hallucinations across complex financial datasets, and built human-in-the-loop evaluation suites measuring factual accuracy and source faithfulness before production rollout.
 
 * **ParadigmIT Cybersecurity** (Product Marketing Manager & PM)  
-  Joined a zero-trust endpoint detection and response (EDR) platform with enterprise clients already on board and no established product function. I immersed myself in the technical domain to collaborate with security analysts, rebuilt the platform narrative across demos and collateral, and created a product roadmap grounded in enterprise RFPs. On the technical side, I helped establish a threat-research process mapped to the MITRE ATT&CK framework and coordinated with DevOps to scale platform capacity and agent tamper resistance for larger enterprise deployments.
+  Built the initial product and GTM function for an enterprise zero-trust endpoint detection and response (EDR) platform. Grounded the product roadmap in enterprise RFPs, mapped threat research workflows to the MITRE ATT&CK framework, and partnered with DevOps to harden agent tamper resistance for enterprise scale.
 
 ---
 
